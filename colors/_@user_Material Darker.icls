@@ -4,7 +4,7 @@
     <property name="created">2018-10-18T16:07:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-06-27T15:07:07</property>
+    <property name="modified">2019-08-22T17:37:57</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -1377,11 +1377,6 @@
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
