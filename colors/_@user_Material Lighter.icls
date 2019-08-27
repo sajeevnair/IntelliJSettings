@@ -4,7 +4,7 @@
     <property name="created">2019-08-14T10:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-14T10:16:36</property>
+    <property name="modified">2019-08-27T15:27:46</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <console-font>
@@ -34,6 +34,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="91b859" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="7c4dff" />
     <option name="FILESTATUS_MODIFIED" value="39adb5" />
