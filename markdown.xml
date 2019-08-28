@@ -1,6 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="" />
-    <MarkdownPreviewSettings AutoScrollPreview="false" />
+    <MarkdownCssSettings StylesheetUri="http://markdowncss.github.io/retro/css/retro.css" />
   </component>
 </application>
