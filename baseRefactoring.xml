@@ -9,4 +9,7 @@
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
 </application>
